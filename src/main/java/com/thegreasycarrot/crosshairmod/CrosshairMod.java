@@ -32,7 +32,7 @@ public class CrosshairMod
     public static final String MODID = "crosshairmod";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
-
+    // bruh
     public CrosshairMod()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
